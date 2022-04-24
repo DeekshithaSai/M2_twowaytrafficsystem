@@ -52,6 +52,7 @@ type of LED’s Red, Yellow & Green each side of junction.
 Detector sense the presence of vehicles in front of sensor and
 send the signal to the microcontroller.
 ---
+
 # **ADVANTAGES AND APPLICATION**
 Digital traffic control reduce traffic congestion and time
 spend on the road to Improve efficiency. Make the road safer
@@ -63,6 +64,7 @@ This Traffic Control system is very efficiently used in metro
 cities. It will help us to reduce traffic problems in urban areas.
 It is used to reduce the rout of traffic.
 ---
+
 # **CONCLUSION**
 In this prject we have implemented the optimization of traffic
 controller in cities using ultrasonic sensors and microcontroller. Since
